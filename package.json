@@ -1,0 +1,26 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "Displays the menu of a restaurant",
+  "main": "menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumar007-C/RestaurantMenu.git"
+  },
+  "keywords": [
+    "menu"
+  ],
+  "author": "Kumar Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kumar007-C/RestaurantMenu/issues"
+  },
+  "homepage": "https://github.com/Kumar007-C/RestaurantMenu#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.6.0"
+  }
+}
